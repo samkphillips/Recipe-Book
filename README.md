@@ -8,7 +8,7 @@
 
 **_Description_**
 
-Our app, Cake Hub, is a dessert recipe site in which users can view various recipes as well as add their own.
+Our app, CakeHub, is a dessert recipe site in which users can view various recipes as well as add their own.
 
 **_Technologies Used_**
 
