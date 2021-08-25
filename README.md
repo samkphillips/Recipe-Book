@@ -23,6 +23,10 @@ Our app, Cake Hub, is a dessert recipe site in which users can view various reci
 
 **_Screenshots_**
 
-#### Component Heirarchy Diagram
+##### Component Heirarchy Diagram
 
-![CHD](chdphoto.png)
+![CHD](./screenshots/chdphoto.png)
+
+##### Entity Relationship Diagram
+
+![ERD](./screenshots/erd.png)
