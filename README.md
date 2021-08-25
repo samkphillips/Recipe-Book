@@ -1,4 +1,4 @@
-# Cake Hub
+# CakeHub
 
 ## Date: 8/25/2021
 
